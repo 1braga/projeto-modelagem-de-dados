@@ -1,5 +1,3 @@
-# projeto-modelagem-de-dados
-
 ## Apresentação
 
 ### Banco de dados para gerenciamento de uma faculdade
