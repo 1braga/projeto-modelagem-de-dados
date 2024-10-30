@@ -1,12 +1,12 @@
 # projeto-modelagem-de-dados
 
-Apresentação
+## Apresentação
 
-Banco de dados para gerenciamento de uma faculdade
+### Banco de dados para gerenciamento de uma faculdade
 
 Objetivos: Realizar controle centralizado de alunos, professores, cursos, disciplinas, histórico escolar e turmas.
 
-Fases
+## Fases
 
 - Levantamento de Requisitos
 - Identificação de Entidades e Relacionamentos
