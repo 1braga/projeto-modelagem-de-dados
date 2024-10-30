@@ -1,5 +1,3 @@
-# Projeto
-
 ## Apresentação
 
 ### Banco de dados para gerenciamento de uma faculdade
