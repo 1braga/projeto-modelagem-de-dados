@@ -8,8 +8,8 @@ Objetivos: Realizar controle centralizado de alunos, professores, cursos, discip
 
 - Levantamento de Requisitos
 - Identificação de Entidades e Relacionamentos
-- Modelo E-R
 - Diagrama E-R
+- Modelo E-R
 - Dicionário de Dados
 - Normalização
 - Implementação
