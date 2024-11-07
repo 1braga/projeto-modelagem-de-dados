@@ -31,8 +31,8 @@ Objetivos: Realizar controle centralizado de alunos, professores, cursos, discip
 - Entram 300 alunos por ano
 - Existem 90 disciplinas no total disponíveis
 - Um histórico escolar traz todas as disciplinas cursadas por um aluno, incluindo nota final, frequência e período do curso realizado
-- Professores podem ser cadstrados mesmo sem lecionar disciplinas
+- Professores podem ser cadastrados mesmo sem lecionar disciplinas
 - Existem 40 professores trabalhando na escola
-- Cada professor irá lecionarno máximo4 disciplinas diferentes
+- Cada professor irá lecionarno máximo 4 disciplinas diferentes
 - Cada professor é vinculado a um departamento
 - Professores são identificados por um código de professor
