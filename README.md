@@ -14,3 +14,25 @@ Objetivos: Realizar controle centralizado de alunos, professores, cursos, discip
 - Normalização
 - Implementação
 - Testes Básicos
+
+## Regras do Negócio
+
+- Um aluno só pode estar matriculado em um curso por vez
+- Alunos possuem um código de identificação
+- Cursos são compostos por disciplinas
+- Cada disciplina terá no máximo 30 alunos por turma
+- As disciplinas podem ser obrigatórias ou optativas, dependendo do curso
+- As disciplinas pertencem a departamentos específicos
+- Cada disciplina possui um código de identificação
+- Alunos podem trancar matrícula, não estando então matrículados em nenhuma disciplina no semestre
+- Em cada semestre, cada aluno pode se matricular em no máximo 9 disciplinas
+- O aluno pode ser reprovado no máximo 3 vezes na mesma disciplina
+- A faculdade terá no máximo 3.000 alunos matriculados simultaneamente, em 10 cursos distintos
+- Entram 300 alunos por ano
+- Existem 90 disciplinas no total disponíveis
+- Um histórico escolar traz todas as disciplinas cursadas por um aluno, incluindo nota final, frequência e período do curso realizado
+- Professores podem ser cadstrados mesmo sem lecionar disciplinas
+- Existem 40 professores trabalhando na escola
+- Cada professor irá lecionarno máximo4 disciplinas diferentes
+- Cada professor é vinculado a um departamento
+- Professores são identificados por um código de professor
