@@ -140,7 +140,7 @@ CREATE TABLE Endereco_Aluno (
 );
 
 
-*Inserindo dados nas tabelas:*
+Inserindo dados nas tabelas:
 
 
 -- Carga de Dados para Testes
