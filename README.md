@@ -36,3 +36,26 @@ Objetivos: Realizar controle centralizado de alunos, professores, cursos, discip
 - Cada professor irá lecionarno máximo 4 disciplinas diferentes
 - Cada professor é vinculado a um departamento
 - Professores são identificados por um código de professor
+
+
+
+### Recursos para estudo
+
+*Websites*
+
+- Resumo interessante com alguns exercícios: https://www.macoratti.net/cbmd1.htm
+
+- Guia completo de modelagem de dados(com algumas partes pagas): https://www.devmedia.com.br/guia/modelagem-de-dados/34654
+
+
+*Cursos online*
+
+- Introduction to data modeling: https://www.edx.org/es/course/indroduction-data-modeling-4
+
+
+*Livros*
+
+- Introdução a Sistemas de Bancos de Dados - C. J. Date
+- Sistemas de Banco de Dados - Elmasri / Navathe
+- Sistema de Banco de Dados - Silberschatz / Sundarshan / Korth
+- Modelagem Conceitual e Projeto de Banco de Dados - Paulo Sérgio Cougo
